@@ -21,7 +21,7 @@ For a detailed walkthrough, please view the source code in this order:
     - BollingerBands.ipynb
     - HeadAndShoulders.ipynb
     - RSI.ipynb
-    - ChannelsTesting.ipynb
+    - KeltnerChannels.ipynb
     - MovingAverage.ipynb
 
 4. Machine Learning Models
