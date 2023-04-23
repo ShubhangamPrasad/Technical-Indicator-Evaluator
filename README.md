@@ -32,7 +32,7 @@ For a detailed walkthrough, please view the source code in this order:
 With the growing popularity and interest surrounding investment, many have begun investing and trading stocks. However, many lack knowledge in determining when to buy or sell their stocks, and how effective technical indicators truly are in determining future price action.
 
 Hence, we deliberated:
-How can we utilise ML to model how effective technical indicators are in determining future price action? Would the use of multiple indicators better help us predict future price action?
+- How can we utilise ML to model how effective technical indicators are in determining future price action? Would the use of multiple indicators better help us predict future price action?
 
 To address this, we performed exploratory data analysis and used technical indicators such as Bollinger bands, Head and Shoulders, Moving Average, Relatice Strength Indicator (RSI) and Keltner Channels to train our models. 
 
@@ -64,6 +64,7 @@ To address this, we performed exploratory data analysis and used technical indic
 - https://www.investopedia.com/terms/r/rsi.asp
 - https://towardsdatascience.com/
 - https://www.investopedia.com/terms/m/movingaverage.asp#:~:text=A%20moving%20average%20is%20a,price%20trends%20for%20specific%20securities.
+- https://www.kaggle.com/datasets/ranugadisansagamage/apple-stocks
 
 
 
